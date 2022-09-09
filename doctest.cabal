@@ -138,7 +138,7 @@ library
     , directory
     , exceptions
     , filepath
-    , ghc >=7.0 && <9.3
+    , ghc >=7.0 && <9.5
     , ghc-paths >=0.1.0.9
     , process
     , syb >=0.3
